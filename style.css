@@ -1,0 +1,236 @@
+body {
+	/*width: 100vw;*/
+	height: 1000vh;
+}
+
+
+
+
+h1 {
+	font-family: goudy-old-style, serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 25pt;
+	word-spacing: 2.5px;
+	position: absolute;
+	padding-left: 2vw;
+	padding-top: 2vh;
+	color: grey;
+}
+
+p {
+	font-family: goudy-old-style, serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 11pt;
+	position: absolute;
+	padding-left: 2vw;
+	padding-top: 10vh;
+	color: grey;
+	max-width: 265px;
+}
+
+
+	#img_1909 {
+		position: absolute;
+		max-width: 200px;
+		left: 1090px;
+		top: 700px;
+		cursor: pointer;"
+	}
+
+
+	#img_1884 {
+		position: absolute;
+		max-width: 200px;
+		left: 850px;
+		top: 700px;
+		cursor: pointer;"
+	}
+
+	#img_1867 {
+		position: absolute;
+		max-width: 200px;
+		left: 600px;
+		top: 700px;
+		cursor: pointer;
+	}
+
+
+	#img_1789 {
+		position: absolute;
+		max-width: 400px;
+		left: 150px;
+		top: 700px;
+		cursor: pointer;
+	}
+
+				#image_1 {
+					max-width: 800px;
+					position: absolute;
+					left: 500px;
+					top: 300px;
+				}
+
+				#image_2 {
+					max-width: 500px;
+					position: absolute;
+					left: 650px;
+					top: 250px;"
+				}
+
+
+				#image_3 {
+					max-width: 500px;
+					position: absolute;
+					left: 670px;
+					top: 250px;
+				}
+
+				#image_4 {
+					max-width: 700px;
+					position: absolute;
+					left: 575px;
+					top: 240px;
+				}
+
+						.back_img_1 {
+							left: 60px;
+							top: 390px;
+							position: absolute;
+							width: 0;
+							height: 0;
+							border-top: 25px solid transparent;
+							border-right: 50px solid #CCCCCC;
+							border-bottom: 25px solid transparent;;
+							}
+
+						.back_img_1:hover {
+								cursor: pointer;
+								border-right: 50px solid grey;
+								transform: scale(1.3);
+							}
+
+
+						.back_img_2 {
+							left: 60px;
+							top: 390px;
+							position: absolute;
+							width: 0;
+							height: 0;
+							border-top: 25px solid transparent;
+							border-right: 50px solid #CCCCCC;
+							border-bottom: 25px solid transparent;
+						}
+
+						.back_img_2:hover {
+							cursor: pointer;
+							border-right: 50px solid grey;
+							transform: scale(1.3);
+						}
+
+						.back_img_3 {
+							left: 60px;
+							top: 390px;
+							position: absolute;
+							width: 0;
+							height: 0;
+							border-top: 25px solid transparent;
+							border-right: 50px solid #CCCCCC;
+							border-bottom: 25px solid transparent;
+						}
+
+						.back_img_3:hover {
+							cursor: pointer;
+							border-right: 50px solid grey;
+							transform: scale(1.3);
+						}
+						
+
+
+
+
+
+							.forward_img_2 {
+								right: 60px;
+								top: 390px;
+								position: absolute;
+								width: 0;
+								height: 0;
+								border-top: 25px solid transparent;
+								border-left: 50px solid #CCCCCC;
+								border-bottom: 25px solid transparent;;
+							}
+
+							.forward_img_2:hover {
+								cursor: pointer;
+								border-left: 50px solid grey;
+								transform: scale(1.3);
+							}
+
+
+							.forward_img_3 {
+								right: 60px;
+								top: 390px;
+								position: absolute;
+								width: 0;
+								height: 0;
+								border-top: 25px solid transparent;
+								border-left: 50px solid #CCCCCC;
+								border-bottom: 25px solid transparent;;
+							}
+
+							.forward_img_3:hover {
+								cursor: pointer;
+								border-left: 50px solid grey;
+								transform: scale(1.3);
+							}
+
+
+							.forward_img_4 {
+								right: 60px;
+								top: 390px;
+								position: absolute;
+								width: 0;
+								height: 0;
+								border-top: 25px solid transparent;
+								border-left: 50px solid #CCCCCC;
+								border-bottom: 25px solid transparent;
+							}
+
+							.forward_img_4:hover {
+								cursor: pointer;
+								border-left: 50px solid grey;
+								transform: scale(1.3);
+							}
+
+
+
+
+
+							.forward_img_5 {
+								right: 60px;
+								top: 390px;
+								position: absolute;
+								width: 0;
+								height: 0;
+								border-top: 25px solid transparent;
+								border-left: 50px solid #CCCCCC;
+								border-bottom: 25px solid transparent;
+							}
+
+							.forward_img_5:hover {
+								cursor: pointer;
+								border-left: 50px solid grey;
+								transform: scale(1.3);
+							}
+
+
+
+
+
+
+
+
+
+
